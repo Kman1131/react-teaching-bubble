@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "teaching-bubble-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/ReactTeachingBubble/ReactTeachingBubbleWebPart.js",
+          "manifest": "./src/webparts/ReactTeachingBubble/ReactTeachingBubbleWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ReactTeachingBubbleWebPartStrings": "lib/webparts/ReactTeachingBubble/loc/{locale}.js"
+  }
+}

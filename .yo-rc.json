@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "react-teaching-bubble",
+    "libraryId": "eca4b994-41e8-447e-b496-9130abba54fa",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
